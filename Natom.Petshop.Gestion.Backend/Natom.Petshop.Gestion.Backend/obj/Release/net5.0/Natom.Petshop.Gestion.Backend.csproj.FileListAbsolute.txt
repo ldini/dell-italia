@@ -1,0 +1,283 @@
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\appsettings.json
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Backend.exe
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\featureflags.json
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\ClientesQueNoCompranDesdeFechaReport.rdlc
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\EstadisticaComprasReport.rdlc
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\EstadisticaGananciasReport.rdlc
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\KilosCompradosPorProveedorReport.rdlc
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\ListaDePreciosImprimirReport.rdlc
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\ListaStockImprimirReport.rdlc
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\OrdenDePedidoReport.rdlc
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\RemitoReport.rdlc
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\TotalVendidoPorListaDePreciosReport.rdlc
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\VentaReport.rdlc
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\VentasPorProductoProveedorReport.rdlc
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\VentasRepartoVsMostradorReport.rdlc
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Backend.deps.json
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Backend.runtimeconfig.json
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Backend.runtimeconfig.dev.json
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Backend.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Backend.pdb
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\AspNetCore.Reporting.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\AspNetCore.ReportingServices.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\jose-jwt.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.Identity.Client.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Newtonsoft.Json.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.CodeDom.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.Data.SqlClient.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.Runtime.Caching.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.ServiceModel.Http.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.ServiceModel.Primitives.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.ServiceModel.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.Text.Json.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Biz.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Entities.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Biz.pdb
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Entities.pdb
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.csproj.AssemblyReference.cache
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.GeneratedMSBuildEditorConfig.editorconfig
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.AssemblyInfoInputs.cache
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.AssemblyInfo.cs
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.csproj.CoreCompileInputs.cache
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.MvcApplicationPartsAssemblyInfo.cache
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\scopedcss\bundle\Natom.Petshop.Gestion.Backend.styles.css
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\staticwebassets\Natom.Petshop.Gestion.Backend.StaticWebAssets.Manifest.cache
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\staticwebassets\Natom.Petshop.Gestion.Backend.StaticWebAssets.Pack.cache
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\staticwebassets\msbuild.Natom.Petshop.Gestion.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\staticwebassets\msbuild.build.Natom.Petshop.Gestion.Backend.props
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\staticwebassets\msbuild.buildMultiTargeting.Natom.Petshop.Gestion.Backend.props
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\staticwebassets\msbuild.buildTransitive.Natom.Petshop.Gestion.Backend.props
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.RazorTargetAssemblyInfo.cache
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.csproj.CopyComplete
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\refint\Natom.Petshop.Gestion.Backend.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.pdb
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.genruntimeconfig.cache
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\ref\Natom.Petshop.Gestion.Backend.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\appsettings.json
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Backend.exe
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\featureflags.json
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\ClientesQueNoCompranDesdeFechaReport.rdlc
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\EstadisticaComprasReport.rdlc
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\EstadisticaGananciasReport.rdlc
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\KilosCompradosPorProveedorReport.rdlc
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\ListaDePreciosImprimirReport.rdlc
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\ListaStockImprimirReport.rdlc
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\OrdenDePedidoReport.rdlc
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\RemitoReport.rdlc
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\TotalVendidoPorListaDePreciosReport.rdlc
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\VentaReport.rdlc
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\VentasPorProductoProveedorReport.rdlc
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\VentasRepartoVsMostradorReport.rdlc
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Backend.deps.json
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Backend.runtimeconfig.json
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Backend.runtimeconfig.dev.json
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Backend.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Backend.pdb
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\AspNetCore.Reporting.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\AspNetCore.ReportingServices.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\jose-jwt.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.CodeDom.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.Data.SqlClient.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.Runtime.Caching.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.ServiceModel.Http.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.ServiceModel.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.Text.Json.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Biz.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Entities.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Biz.pdb
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Entities.pdb
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.csproj.AssemblyReference.cache
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.AssemblyInfoInputs.cache
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.AssemblyInfo.cs
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.csproj.CoreCompileInputs.cache
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\scopedcss\bundle\Natom.Petshop.Gestion.Backend.styles.css
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\staticwebassets\Natom.Petshop.Gestion.Backend.StaticWebAssets.Manifest.cache
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\staticwebassets\Natom.Petshop.Gestion.Backend.StaticWebAssets.Pack.cache
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\staticwebassets\msbuild.Natom.Petshop.Gestion.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\staticwebassets\msbuild.build.Natom.Petshop.Gestion.Backend.props
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\staticwebassets\msbuild.buildMultiTargeting.Natom.Petshop.Gestion.Backend.props
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\staticwebassets\msbuild.buildTransitive.Natom.Petshop.Gestion.Backend.props
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.RazorTargetAssemblyInfo.cache
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.csproj.CopyComplete
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\refint\Natom.Petshop.Gestion.Backend.dll
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.pdb
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.genruntimeconfig.cache
+C:\Users\Gaston\Desktop\Natom.DallItalia\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\ref\Natom.Petshop.Gestion.Backend.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\appsettings.json
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Backend.exe
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\featureflags.json
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\ClientesQueNoCompranDesdeFechaReport.rdlc
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\EstadisticaComprasReport.rdlc
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\EstadisticaGananciasReport.rdlc
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\KilosCompradosPorProveedorReport.rdlc
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\ListaDePreciosImprimirReport.rdlc
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\ListaStockImprimirReport.rdlc
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\OrdenDePedidoReport.rdlc
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\RemitoReport.rdlc
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\TotalVendidoPorListaDePreciosReport.rdlc
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\VentaReport.rdlc
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\VentasPorProductoProveedorReport.rdlc
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Reporting\VentasRepartoVsMostradorReport.rdlc
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Backend.deps.json
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Backend.runtimeconfig.json
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Backend.runtimeconfig.dev.json
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Backend.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Backend.pdb
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\AspNetCore.Reporting.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\AspNetCore.ReportingServices.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\jose-jwt.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.CodeDom.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.Data.SqlClient.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.Runtime.Caching.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.ServiceModel.Http.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.ServiceModel.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\System.Text.Json.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Biz.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Entities.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Biz.pdb
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\bin\Release\net5.0\Natom.Petshop.Gestion.Entities.pdb
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.csproj.AssemblyReference.cache
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.AssemblyInfoInputs.cache
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.AssemblyInfo.cs
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\scopedcss\bundle\Natom.Petshop.Gestion.Backend.styles.css
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\staticwebassets\Natom.Petshop.Gestion.Backend.StaticWebAssets.Manifest.cache
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.RazorTargetAssemblyInfo.cache
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.csproj.CopyComplete
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\refint\Natom.Petshop.Gestion.Backend.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.pdb
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\Natom.Petshop.Gestion.Backend.genruntimeconfig.cache
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Backend\obj\Release\net5.0\ref\Natom.Petshop.Gestion.Backend.dll

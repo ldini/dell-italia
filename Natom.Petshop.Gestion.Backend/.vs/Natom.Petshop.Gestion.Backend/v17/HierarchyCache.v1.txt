@@ -1,0 +1,431 @@
+﻿++Solución "Natom.Petshop.Gestion.Backend" ‎(3 de 3 proyectos)
+i:{00000000-0000-0000-0000-000000000000}:Natom.Petshop.Gestion.Backend.sln
+++Natom.Petshop.Gestion.Backend
+i:{00000000-0000-0000-0000-000000000000}:Natom.Petshop.Gestion.Backend
+++Connected Services 
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:>761
+++Base de datos de SQL Server
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:>800
+++Dependencias
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:>760
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:>577
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:>578
+++Properties
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\properties\
+++Controllers
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\controllers\
+++AuthController.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\controllers\authcontroller.cs
+++BaseController.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\controllers\basecontroller.cs
+++CajasController.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\controllers\cajascontroller.cs
+++ClientesController.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\controllers\clientescontroller.cs
+++HistoricoCambiosController.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\controllers\historicocambioscontroller.cs
+++MarcasController.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\controllers\marcascontroller.cs
+++PedidosController.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\controllers\pedidoscontroller.cs
+++PreciosController.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\controllers\precioscontroller.cs
+++ProductosController.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\controllers\productoscontroller.cs
+++ProveedoresController.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\controllers\proveedorescontroller.cs
+++ReportesController.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\controllers\reportescontroller.cs
+++StockController.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\controllers\stockcontroller.cs
+++TransportesController.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\controllers\transportescontroller.cs
+++UsersController.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\controllers\userscontroller.cs
+++VentasController.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\controllers\ventascontroller.cs
+++ZonasController.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\controllers\zonascontroller.cs
+++Filters
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\filters\
+++Reporting
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\reporting\
+++ClientesQueNoCompranDesdeFechaReport.rdlc
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\reporting\clientesquenocomprandesdefechareport.rdlc
+++DataSetReporting.xsd
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\reporting\datasetreporting.xsd
+++EstadisticaComprasReport.rdlc
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\reporting\estadisticacomprasreport.rdlc
+++EstadisticaGananciasReport.rdlc
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\reporting\estadisticagananciasreport.rdlc
+++KilosCompradosPorProveedorReport.rdlc
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\reporting\kiloscompradosporproveedorreport.rdlc
+++ListaDePreciosImprimirReport.rdlc
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\reporting\listadepreciosimprimirreport.rdlc
+++ListaStockImprimirReport.rdlc
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\reporting\listastockimprimirreport.rdlc
+++OrdenDePedidoReport.rdlc
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\reporting\ordendepedidoreport.rdlc
+++RemitoReport.rdlc
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\reporting\remitoreport.rdlc
+++TotalVendidoPorListaDePreciosReport.rdlc
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\reporting\totalvendidoporlistadepreciosreport.rdlc
+++VentaReport.rdlc
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\reporting\ventareport.rdlc
+++VentasPorProductoProveedorReport.rdlc
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\reporting\ventasporproductoproveedorreport.rdlc
+++VentasRepartoVsMostradorReport.rdlc
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\reporting\ventasrepartovsmostradorreport.rdlc
+++Services
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\services\
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\services\
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\services\
+++LoggingService.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\services\loggingservice.cs
+++OAuthService.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\services\oauthservice.cs
+++TransactionService.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\services\transactionservice.cs
+++appsettings.json
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\appsettings.json
+++featureflags.json
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\featureflags.json
+++Program.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\program.cs
+++Startup.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\startup.cs
+++Se detectó la dependencia Base de datos de SQL Server
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:>801
+++Analizadores
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:analizadores
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:analizadores
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:analizadores
+++Marcos de trabajo
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:marcos de trabajo
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:marcos de trabajo
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:marcos de trabajo
+++Paquetes
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:paquetes
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:paquetes
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:paquetes
+++Proyectos
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:proyectos
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:proyectos
+++launchSettings.json
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\properties\launchsettings.json
+++AuthorizationFilter.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\filters\authorizationfilter.cs
+++ResultFilter.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\filters\resultfilter.cs
+++DataSetReporting.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\reporting\datasetreporting.cs
+++DataSetReporting.Designer.cs
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\reporting\datasetreporting.designer.cs
+++DataSetReporting.xsc
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\reporting\datasetreporting.xsc
+++DataSetReporting.xss
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\reporting\datasetreporting.xss
+++Microsoft.AspNetCore.Analyzers
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:c:\users\gaston\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.12\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:c:\users\gaston\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.12\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.backend\microsoft.netcore.app
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\microsoft.netcore.app
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\microsoft.netcore.app
+++AspNetCore.Reporting (2.1.0)
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:>788
+++jose-jwt (3.2.0)
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:>789
+++Microsoft.AspNetCore.Mvc.NewtonsoftJson (5.0.12)
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:>787
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.12)
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:>786
+++Natom.Petshop.Gestion.Biz
+i:{30dcb809-7ae7-4d95-8fb9-9ed4b10e554e}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\bin\debug\net5.0\natom.petshop.gestion.biz.dll
+i:{00000000-0000-0000-0000-000000000000}:Natom.Petshop.Gestion.Biz
+++Exceptions
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\exceptions\
+++HandledException.cs
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\exceptions\handledexception.cs
+++Helpers
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\helpers\
+++EmailManager.cs
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\helpers\emailmanager.cs
+++Managers
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\managers\
+++BaseManager.cs
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\managers\basemanager.cs
+++CajasManager.cs
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\managers\cajasmanager.cs
+++ClientesManager.cs
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\managers\clientesmanager.cs
+++CuentasCorrientesManager.cs
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\managers\cuentascorrientesmanager.cs
+++MarcasManager.cs
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\managers\marcasmanager.cs
+++PedidosManager.cs
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\managers\pedidosmanager.cs
+++PreciosManager.cs
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\managers\preciosmanager.cs
+++ProductosManager.cs
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\managers\productosmanager.cs
+++ProveedoresManager.cs
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\managers\proveedoresmanager.cs
+++ReportingManager.cs
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\managers\reportingmanager.cs
+++StockManager.cs
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\managers\stockmanager.cs
+++TransportesManager.cs
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\managers\transportesmanager.cs
+++UsuariosManager.cs
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\managers\usuariosmanager.cs
+++VentasManager.cs
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\managers\ventasmanager.cs
+++ZonasManager.cs
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\managers\zonasmanager.cs
+++FeatureFlagsService.cs
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\services\featureflagsservice.cs
+++BizDbContext.cs
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.biz\bizdbcontext.cs
+++Microsoft.EntityFrameworkCore (5.0.12)
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:>770
+++Microsoft.EntityFrameworkCore.Relational (5.0.12)
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:>772
+++Microsoft.Extensions.Configuration.Abstractions (6.0.0)
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:>771
+++Natom.Petshop.Gestion.Entities
+i:{1fbbf32b-cfa5-4391-9206-eb0584f560ab}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\bin\debug\net5.0\natom.petshop.gestion.entities.dll
+i:{00000000-0000-0000-0000-000000000000}:Natom.Petshop.Gestion.Entities
+++DTO
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\
+++Auth
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\auth\
+++Autocomplete
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\autocomplete\
+++Cajas
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\cajas\
+++Clientes
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\clientes\
+++DataTable
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\datatable\
+++HistoricoCambios
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\historicocambios\
+++Marcas
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\marcas\
+++Pedidos
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\pedidos\
+++PedidoDetalleDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\pedidos\pedidodetalledto.cs
+++PedidoDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\pedidos\pedidodto.cs
+++PedidoListDetalleDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\pedidos\pedidolistdetalledto.cs
+++PedidoListDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\pedidos\pedidolistdto.cs
+++RangoHorarioDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\pedidos\rangohorariodto.cs
+++Precios
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\precios\
+++Productos
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\productos\
+++Proveedores
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\proveedores\
+++Stock
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\stock\
+++Transportes
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\transportes\
+++Ventas
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\ventas\
+++Zonas
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\zonas\
+++ApiResultDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\apiresultdto.cs
+++FeatureFlagsDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\featureflagsdto.cs
+++Model
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\
+++Results
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\results\
+++CategoriaProducto.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\categoriaproducto.cs
+++Cliente.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\cliente.cs
+++Deposito.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\deposito.cs
+++HistoricoCambios.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\historicocambios.cs
+++HistoricoCambiosMotivo.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\historicocambiosmotivo.cs
+++HistoricoReajustePrecio.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\historicoreajusteprecio.cs
+++ListaDePrecios.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\listadeprecios.cs
+++Log.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\log.cs
+++Marca.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\marca.cs
+++MovimientoCajaDiaria.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\movimientocajadiaria.cs
+++MovimientoCajaFuerte.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\movimientocajafuerte.cs
+++MovimientoCtaCteCliente.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\movimientoctactecliente.cs
+++MovimientoCtaCteProveedor.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\movimientoctacteproveedor.cs
+++MovimientoStock.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\movimientostock.cs
+++OrdenDePedido.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\ordendepedido.cs
+++OrdenDePedidoDetalle.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\ordendepedidodetalle.cs
+++Permiso.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\permiso.cs
+++Producto.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\producto.cs
+++ProductoPrecio.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\productoprecio.cs
+++Proveedor.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\proveedor.cs
+++RangoHorario.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\rangohorario.cs
+++TipoDocumento.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\tipodocumento.cs
+++TipoResponsable.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\tiporesponsable.cs
+++Transporte.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\transporte.cs
+++UnidadPeso.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\unidadpeso.cs
+++Usuario.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\usuario.cs
+++UsuarioPermiso.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\usuariopermiso.cs
+++Venta.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\venta.cs
+++VentaDetalle.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\ventadetalle.cs
+++Zona.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\zona.cs
+++EncryptionService.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\services\encryptionservice.cs
+++Token.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\token.cs
+++Microsoft.EntityFrameworkCore.Abstractions (5.0.12)
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:>799
+++Newtonsoft.Json (13.0.1)
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:>798
+++LoginResultDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\auth\loginresultdto.cs
+++PermisoDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\auth\permisodto.cs
+++UserDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\auth\userdto.cs
+++AutocompleteResponseDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\autocomplete\autocompleteresponsedto.cs
+++MovimientoCajaDiariaDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\cajas\movimientocajadiariadto.cs
+++MovimientoCajaFuerteDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\cajas\movimientocajafuertedto.cs
+++MovimientoEntreCajasDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\cajas\movimientoentrecajasdto.cs
+++CtaCte
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\clientes\ctacte\
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\proveedores\ctacte\
+++ClienteDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\clientes\clientedto.cs
+++DataTableRequestDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\datatable\datatablerequestdto.cs
+++DataTableResponseDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\datatable\datatableresponsedto.cs
+++HistoricoListDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\historicocambios\historicolistdto.cs
+++MarcaDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\marcas\marcadto.cs
+++ListaDePreciosDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\precios\listadepreciosdto.cs
+++PrecioDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\precios\preciodto.cs
+++PrecioListDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\precios\preciolistdto.cs
+++PrecioReajusteDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\precios\precioreajustedto.cs
+++PrecioReajusteListDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\precios\precioreajustelistdto.cs
+++CategoriaProductoDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\productos\categoriaproductodto.cs
+++ProductoDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\productos\productodto.cs
+++ProductoListDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\productos\productolistdto.cs
+++UnidadPesoDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\productos\unidadpesodto.cs
+++ProveedorDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\proveedores\proveedordto.cs
+++DepositoDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\stock\depositodto.cs
+++MovimientoStockDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\stock\movimientostockdto.cs
+++StockListDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\stock\stocklistdto.cs
+++TransporteDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\transportes\transportedto.cs
+++VentaDetalleDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\ventas\ventadetalledto.cs
+++VentaDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\ventas\ventadto.cs
+++VentaListDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\ventas\ventalistdto.cs
+++ZonaDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\zonas\zonadto.cs
+++spClientesQueNoCompranDesdeFechaReportResult.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\results\spclientesquenocomprandesdefechareportresult.cs
+++spEstadisticaComprasReportResult.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\results\spestadisticacomprasreportresult.cs
+++spEstadisticaGananciasReportResult.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\results\spestadisticagananciasreportresult.cs
+++spKilosCompradosPorProveedorReportResult.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\results\spkiloscompradosporproveedorreportresult.cs
+++spMovimientosStockListResult.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\results\spmovimientosstocklistresult.cs
+++spPrecioGetResult.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\results\sppreciogetresult.cs
+++spPreciosListaReportResult.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\results\spprecioslistareportresult.cs
+++spPreciosListResult.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\results\spprecioslistresult.cs
+++spReportOrdenDePedidoResult.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\results\spreportordendepedidoresult.cs
+++spReportRemitoResult.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\results\spreportremitoresult.cs
+++spReportVentaResult.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\results\spreportventaresult.cs
+++spStockListaReportResult.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\results\spstocklistareportresult.cs
+++spTotalVendidoPorListaDePreciosReportResult.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\results\sptotalvendidoporlistadepreciosreportresult.cs
+++spVentasPorProductoProveedorReportResult.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\results\spventasporproductoproveedorreportresult.cs
+++spVentasRepartoVsMostradorReportResult.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\model\results\spventasrepartovsmostradorreportresult.cs
+++ClienteCtaCteMovimientoDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\clientes\ctacte\clientectactemovimientodto.cs
+++ClienteCtaCteResumeDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\clientes\ctacte\clientectacteresumedto.cs
+++ProveedorCtaCteMovimientoDTO.cs
+i:{02ef7e8b-49f7-4b65-9735-35cac239e0b5}:g:\natom code\natom.petshop.gestion\natom.petshop.gestion.backend\natom.petshop.gestion.entities\dto\proveedores\ctacte\proveedorctactemovimientodto.cs

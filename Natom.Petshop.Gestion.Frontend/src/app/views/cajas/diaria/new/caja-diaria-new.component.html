@@ -1,0 +1,209 @@
+<div class="container-fluid" id="title-crud">
+  <div class="row justify-content-center">
+
+    <div class="col-md-12">
+      <h3>Nuevo Cierre de Caja</h3>
+      <div class="col-md-2">
+        <div class="input-group input-group-sm">
+          <div class="input-group-prepend">
+            <span class="input-group-text" id="basic-addon1">Turno</span>
+          </div>
+          <select class="form-control" size="1" #filtroEstado (change)="onFiltroEstadoChange(filtroEstado.value)">
+            <option value="Turno no asignado">N/A</option>
+            <option value="Turno Mañana">Mañana</option>
+            <option value="Turno Tarde">Tarde</option>
+          </select>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-12"> </div>
+    <div class="col-md-12"> </div>
+
+  <div class="col-md-2">
+    <div class="form-group">
+        <label for="formGroupExampleInput">Registradora 1 </label>
+          <div class="input-group">
+            <div class="input-group-prepend">
+               <span class="input-group-text">$</span>
+            </div>
+            <input type="number"
+            class="form-control"
+            placeholder="0,00"
+            onkeypress="return (event.charCode >= 48 && event.charCode <= 57) || event.charCode === 44"
+            [(ngModel)]="crud.model.importe4" />
+            </div>
+       </div>
+      </div>
+    <div class="col-md-2 ">
+      <div class="form-group">
+        <label for="formGroupExampleInput">Registradora 2 </label>
+        <div class="input-group">
+          <div class="input-group-prepend">
+            <span class="input-group-text">$</span>
+          </div>
+          <input type="number"
+            class="form-control"
+            placeholder="0,00"
+            onkeypress="return (event.charCode >= 48 && event.charCode <= 57) || event.charCode === 44"
+            [(ngModel)]="crud.model.importe1" />
+        </div>
+      </div>
+    </div>
+    <div class="col-md-2 ">
+      <div class="form-group">
+        <label for="formGroupExampleInput">Factura A </label>
+        <div class="input-group">
+          <div class="input-group-prepend">
+            <span class="input-group-text">$</span>
+          </div>
+          <input type="number"
+            class="form-control"
+            placeholder="0,00"
+            onkeypress="return (event.charCode >= 48 && event.charCode <= 57) || event.charCode === 44"
+            [(ngModel)]="crud.model.importe2" />
+        </div>
+      </div>
+    </div>
+    <div class="col-md-5 ">
+
+</div>
+
+   <div class="col-md-2 ">
+      <div class="form-group">
+        <label for="formGroupExampleInput">Vales </label>
+        <div class="input-group">
+          <div class="input-group-prepend">
+            <span class="input-group-text">$</span>
+          </div>
+          <input type="number"
+            class="form-control"
+            placeholder="0,00"
+            onkeypress="return (event.charCode >= 48 && event.charCode <= 57) || event.charCode === 44"
+            [(ngModel)]="crud.model.importe3" />
+        </div>
+      </div>
+    </div>
+    <div class="col-md-2 d-none">
+      <div class="form-group">
+        <label for="formGroupExampleInput">Efectivo </label>
+        <div class="input-group">
+          <div class="input-group-prepend">
+            <span class="input-group-text">$</span>
+          </div>
+          <input type="number"
+            class="form-control"
+            placeholder="0,00"
+            onkeypress="return (event.charCode >= 48 && event.charCode <= 57) || event.charCode === 44"
+            [(ngModel)]="crud.model.importe4" />
+        </div>
+      </div>
+    </div>
+    <div class="col-md-2 d-none">
+      <div class="form-group">
+        <label for="formGroupExampleInput">Mercado Pago </label>
+        <div class="input-group">
+          <div class="input-group-prepend">
+            <span class="input-group-text">$</span>
+          </div>
+          <input type="number"
+            class="form-control"
+            placeholder="0,00"
+            onkeypress="return (event.charCode >= 48 && event.charCode <= 57) || event.charCode === 44"
+            [(ngModel)]="crud.model.importe5" />
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-2 ">
+      <div class="form-group">
+        <label for="formGroupExampleInput">Gastos </label>
+        <div class="input-group">
+          <div class="input-group-prepend">
+            <span class="input-group-text">$</span>
+          </div>
+          <input type="number"
+            class="form-control"
+            placeholder="0,00"
+            onkeypress="return (event.charCode >= 48 && event.charCode <= 57) || event.charCode === 44"
+            [(ngModel)]="crud.model.importe7" />
+        </div>
+      </div>
+    </div>
+    <div class="col-md-2 ">
+      <div class="form-group">
+        <label for="formGroupExampleInput">Tarjeta/M.Pago</label>
+        <div class="input-group">
+          <div class="input-group-prepend">
+            <span class="input-group-text">$</span>
+          </div>
+          <input type="number"
+            class="form-control"
+            placeholder="0,00"
+            onkeypress="return (event.charCode >= 48 && event.charCode <= 57) || event.charCode === 44"
+            [(ngModel)]="crud.model.importe8" />
+        </div>
+      </div>
+    </div>
+    <div class="col-md-2 ">
+      <div class="form-group">
+        <label for="formGroupExampleInput">Cheques</label>
+        <div class="input-group">
+          <div class="input-group-prepend">
+            <span class="input-group-text">$</span>
+          </div>
+          <input type="number"
+            class="form-control"
+            placeholder="0,00"
+            onkeypress="return (event.charCode >= 48 && event.charCode <= 57) || event.charCode === 44"
+            [(ngModel)]="crud.model.importe6" />
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-2 ">
+      <div class="form-group">
+        <label for="formGroupExampleInput">Efectivo</label>
+        <div class="input-group">
+          <div class="input-group-prepend">
+            <span class="input-group-text">$</span>
+          </div>
+          <input type="number"
+            class="form-control"
+            placeholder="0,00"
+            onkeypress="return (event.charCode >= 48 && event.charCode <= 57) || event.charCode === 44"
+            [(ngModel)]="crud.model.importe11" />
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-2 ">
+      <div class="form-group">
+        <label for="formGroupExampleInput">Compras</label>
+        <div class="input-group">
+          <div class="input-group-prepend">
+            <span class="input-group-text">$</span>
+          </div>
+          <input type="number"
+            class="form-control"
+            placeholder="0,00"
+            onkeypress="return (event.charCode >= 48 && event.charCode <= 57) || event.charCode === 44"
+            [(ngModel)]="crud.model.importe12" />
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+
+  <div class="row crud-footer">
+    <div class="col-md-12">
+      <button class="btn btn-danger btn-circular left" (click)="onCancelClick()" data-toggle="tooltip" data-placement="right" title="Cancelar"><i class="fa fa-times"></i></button>
+      <button class="btn btn-success btn-circular right" (click)="onSaveClick()" data-toggle="tooltip" data-placement="left" title="Guardar"><i class="fa fa-check"></i></button>
+    </div>
+  </div>
+</div>
+
+

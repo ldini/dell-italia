@@ -1,0 +1,64 @@
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-5">
+            <h3>Detalle Caja Maestra  <span></span><a [routerLink]="['/cajas/cierre']">[Mensual]</a></h3>
+        </div>
+    </div>
+
+    <hr class="divider" />
+
+    <div class="row">
+        <div class="col-md-12">
+            <table class="table table-striped table-bordered dt-responsive nowrap">
+                <thead>
+                <tr>
+                    <th>Periodo</th>
+                    <th>Registradora 1</th>
+                    <th>Registradora 2</th>
+                    <th>Factura A</th>
+                    <th>Vales</th>
+                    <th>Gastos</th>
+                    <th>Compras</th>
+                    <th>Compras A</th>
+                    <th>Compras B</th>
+                    <th>Diferencias</th>
+                    <th>Efectivo</th>
+                    <th>Tarjeta/M.Pago</th>
+                    <th>Gastos Extra</th>
+                    <th>Impuestos</th>
+                    <th>Sueldos</th>
+                    <th>Turno N</th>
+                    <th>Turno M</th>
+                    <th>Total</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr *ngFor="let movimiento of movimientosMaestra">
+                    <td>{{ movimiento.Mes }}/{{ movimiento.Ano }}</td>
+                    <td>${{ movimiento.Registradora1 }}</td>
+                    <td>${{ movimiento.Registradora2 }}</td>
+                    <td>${{ movimiento.FacturaA }}</td>
+                    <td>${{ movimiento.Vales }}</td>
+                    <td>${{ movimiento.Gastos }}</td>
+                    <td>${{ movimiento.Compras }}</td>
+                    <td>${{ movimiento.ComprasA }}</td>
+                    <td>${{ movimiento.ComprasB }}</td>
+                    <td>${{ movimiento.Diferencias }}</td>
+                    <td>${{ movimiento.Efectivo }}</td>
+                    <td>${{ movimiento.Tarjeta_M_Pago }}</td>
+                    <td>${{ movimiento.Gastos_Extra }}</td>   
+                    <td>${{ movimiento.Impuestos }}</td>   
+                    <td>${{ movimiento.Sueldos }}</td>                
+                    <td>${{ movimiento.TurnoN }}</td>
+                    <td>${{ movimiento.TurnoM }}</td>
+                    <td>${{ movimiento.Total }}</td>
+                    
+                </tr>
+                </tbody>
+            </table>
+        </div> 
+    </div> 
+</div> 
+    
+

@@ -1,0 +1,36 @@
+/* caja-maestra.component.css */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  table th,
+  table td {
+    padding: 8px;
+    border: 1px solid #ccc;
+  }
+  
+  table th {
+    background-color: #f2f2f2;
+  }
+  
+  table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  table tr:hover {
+    background-color: #e3e3e3;
+  }
+  
+  /* Optional: Add some additional styling to the table */
+  table th:first-child,
+  table td:first-child {
+    border-left: none;
+  }
+  
+  table th:last-child,
+  table td:last-child {
+    border-right: none;
+  }

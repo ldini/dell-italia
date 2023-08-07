@@ -1,0 +1,60 @@
+G:\Natom Code\Natom.Petshop.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\bin\Debug\net5.0\Natom.Petshop.Gestion.Entities.deps.json
+G:\Natom Code\Natom.Petshop.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\bin\Debug\net5.0\Natom.Petshop.Gestion.Entities.dll
+G:\Natom Code\Natom.Petshop.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\bin\Debug\net5.0\Natom.Petshop.Gestion.Entities.pdb
+G:\Natom Code\Natom.Petshop.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.csproj.AssemblyReference.cache
+G:\Natom Code\Natom.Petshop.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.GeneratedMSBuildEditorConfig.editorconfig
+G:\Natom Code\Natom.Petshop.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.AssemblyInfoInputs.cache
+G:\Natom Code\Natom.Petshop.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.AssemblyInfo.cs
+G:\Natom Code\Natom.Petshop.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.csproj.CoreCompileInputs.cache
+G:\Natom Code\Natom.Petshop.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.dll
+G:\Natom Code\Natom.Petshop.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\refint\Natom.Petshop.Gestion.Entities.dll
+G:\Natom Code\Natom.Petshop.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.pdb
+G:\Natom Code\Natom.Petshop.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\ref\Natom.Petshop.Gestion.Entities.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\bin\Debug\net5.0\Natom.Petshop.Gestion.Entities.deps.json
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\bin\Debug\net5.0\Natom.Petshop.Gestion.Entities.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\bin\Debug\net5.0\Natom.Petshop.Gestion.Entities.pdb
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.csproj.AssemblyReference.cache
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.GeneratedMSBuildEditorConfig.editorconfig
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.AssemblyInfoInputs.cache
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.AssemblyInfo.cs
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.csproj.CoreCompileInputs.cache
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\refint\Natom.Petshop.Gestion.Entities.dll
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.pdb
+G:\Natom Code\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\ref\Natom.Petshop.Gestion.Entities.dll
+G:\Natom Code\Natom.DallItalia\Natom.DallItalia.Gestion.Backend\Natom.Petshop.Gestion.Entities\bin\Debug\net5.0\Natom.Petshop.Gestion.Entities.deps.json
+G:\Natom Code\Natom.DallItalia\Natom.DallItalia.Gestion.Backend\Natom.Petshop.Gestion.Entities\bin\Debug\net5.0\Natom.Petshop.Gestion.Entities.dll
+G:\Natom Code\Natom.DallItalia\Natom.DallItalia.Gestion.Backend\Natom.Petshop.Gestion.Entities\bin\Debug\net5.0\Natom.Petshop.Gestion.Entities.pdb
+G:\Natom Code\Natom.DallItalia\Natom.DallItalia.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.csproj.AssemblyReference.cache
+G:\Natom Code\Natom.DallItalia\Natom.DallItalia.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.GeneratedMSBuildEditorConfig.editorconfig
+G:\Natom Code\Natom.DallItalia\Natom.DallItalia.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.AssemblyInfoInputs.cache
+G:\Natom Code\Natom.DallItalia\Natom.DallItalia.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.AssemblyInfo.cs
+G:\Natom Code\Natom.DallItalia\Natom.DallItalia.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.csproj.CoreCompileInputs.cache
+G:\Natom Code\Natom.DallItalia\Natom.DallItalia.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.dll
+G:\Natom Code\Natom.DallItalia\Natom.DallItalia.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\refint\Natom.Petshop.Gestion.Entities.dll
+G:\Natom Code\Natom.DallItalia\Natom.DallItalia.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.pdb
+G:\Natom Code\Natom.DallItalia\Natom.DallItalia.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\ref\Natom.Petshop.Gestion.Entities.dll
+C:\NATOM\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\bin\Debug\net5.0\Natom.Petshop.Gestion.Entities.deps.json
+C:\NATOM\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\bin\Debug\net5.0\Natom.Petshop.Gestion.Entities.dll
+C:\NATOM\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\bin\Debug\net5.0\ref\Natom.Petshop.Gestion.Entities.dll
+C:\NATOM\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\bin\Debug\net5.0\Natom.Petshop.Gestion.Entities.pdb
+C:\NATOM\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.csproj.AssemblyReference.cache
+C:\NATOM\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\NATOM\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.AssemblyInfoInputs.cache
+C:\NATOM\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.AssemblyInfo.cs
+C:\NATOM\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.csproj.CoreCompileInputs.cache
+C:\NATOM\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.dll
+C:\NATOM\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\ref\Natom.Petshop.Gestion.Entities.dll
+C:\NATOM\Natom.DallItalia\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.pdb
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\bin\Debug\net5.0\Natom.Petshop.Gestion.Entities.deps.json
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\bin\Debug\net5.0\Natom.Petshop.Gestion.Entities.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\bin\Debug\net5.0\ref\Natom.Petshop.Gestion.Entities.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\bin\Debug\net5.0\Natom.Petshop.Gestion.Entities.pdb
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.csproj.AssemblyReference.cache
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.AssemblyInfoInputs.cache
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.AssemblyInfo.cs
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\ref\Natom.Petshop.Gestion.Entities.dll
+C:\Users\Leandro\Documents\Atsa app\Natom.DallItalia.Gestion\Natom.Petshop.Gestion.Backend\Natom.Petshop.Gestion.Entities\obj\Debug\net5.0\Natom.Petshop.Gestion.Entities.pdb

@@ -1,0 +1,269 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Leandro\\Documents\\Atsa app\\Natom.DallItalia.Gestion\\Natom.Petshop.Gestion.Backend\\Natom.Petshop.Gestion.Backend\\Natom.Petshop.Gestion.Backend.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Leandro\\Documents\\Atsa app\\Natom.DallItalia.Gestion\\Natom.Petshop.Gestion.Backend\\Natom.Petshop.Gestion.Backend\\Natom.Petshop.Gestion.Backend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Leandro\\Documents\\Atsa app\\Natom.DallItalia.Gestion\\Natom.Petshop.Gestion.Backend\\Natom.Petshop.Gestion.Backend\\Natom.Petshop.Gestion.Backend.csproj",
+        "projectName": "Natom.Petshop.Gestion.Backend",
+        "projectPath": "C:\\Users\\Leandro\\Documents\\Atsa app\\Natom.DallItalia.Gestion\\Natom.Petshop.Gestion.Backend\\Natom.Petshop.Gestion.Backend\\Natom.Petshop.Gestion.Backend.csproj",
+        "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Leandro\\Documents\\Atsa app\\Natom.DallItalia.Gestion\\Natom.Petshop.Gestion.Backend\\Natom.Petshop.Gestion.Backend\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Leandro\\Documents\\Atsa app\\Natom.DallItalia.Gestion\\Natom.Petshop.Gestion.Backend\\Natom.Petshop.Gestion.Biz\\Natom.Petshop.Gestion.Biz.csproj": {
+                "projectPath": "C:\\Users\\Leandro\\Documents\\Atsa app\\Natom.DallItalia.Gestion\\Natom.Petshop.Gestion.Backend\\Natom.Petshop.Gestion.Biz\\Natom.Petshop.Gestion.Biz.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AspNetCore.Reporting": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "jose-jwt": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Leandro\\Documents\\Atsa app\\Natom.DallItalia.Gestion\\Natom.Petshop.Gestion.Backend\\Natom.Petshop.Gestion.Biz\\Natom.Petshop.Gestion.Biz.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Leandro\\Documents\\Atsa app\\Natom.DallItalia.Gestion\\Natom.Petshop.Gestion.Backend\\Natom.Petshop.Gestion.Biz\\Natom.Petshop.Gestion.Biz.csproj",
+        "projectName": "Natom.Petshop.Gestion.Biz",
+        "projectPath": "C:\\Users\\Leandro\\Documents\\Atsa app\\Natom.DallItalia.Gestion\\Natom.Petshop.Gestion.Backend\\Natom.Petshop.Gestion.Biz\\Natom.Petshop.Gestion.Biz.csproj",
+        "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Leandro\\Documents\\Atsa app\\Natom.DallItalia.Gestion\\Natom.Petshop.Gestion.Backend\\Natom.Petshop.Gestion.Biz\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Leandro\\Documents\\Atsa app\\Natom.DallItalia.Gestion\\Natom.Petshop.Gestion.Backend\\Natom.Petshop.Gestion.Entities\\Natom.Petshop.Gestion.Entities.csproj": {
+                "projectPath": "C:\\Users\\Leandro\\Documents\\Atsa app\\Natom.DallItalia.Gestion\\Natom.Petshop.Gestion.Backend\\Natom.Petshop.Gestion.Entities\\Natom.Petshop.Gestion.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Leandro\\Documents\\Atsa app\\Natom.DallItalia.Gestion\\Natom.Petshop.Gestion.Backend\\Natom.Petshop.Gestion.Entities\\Natom.Petshop.Gestion.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Leandro\\Documents\\Atsa app\\Natom.DallItalia.Gestion\\Natom.Petshop.Gestion.Backend\\Natom.Petshop.Gestion.Entities\\Natom.Petshop.Gestion.Entities.csproj",
+        "projectName": "Natom.Petshop.Gestion.Entities",
+        "projectPath": "C:\\Users\\Leandro\\Documents\\Atsa app\\Natom.DallItalia.Gestion\\Natom.Petshop.Gestion.Backend\\Natom.Petshop.Gestion.Entities\\Natom.Petshop.Gestion.Entities.csproj",
+        "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Leandro\\Documents\\Atsa app\\Natom.DallItalia.Gestion\\Natom.Petshop.Gestion.Backend\\Natom.Petshop.Gestion.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
