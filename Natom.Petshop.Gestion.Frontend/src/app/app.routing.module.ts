@@ -116,8 +116,8 @@ const appRoutes: Routes = [
     { canActivate: [ AuthGuard, CajaDiariaVerGuard ], path: 'cajas/diaria', component: CajaDiariaComponent },
 
     { canActivate: [ AuthGuard, CajaMaestraVerGuard ], path: 'cajas/cierre', component: CajaMaestraComponent }, 
+    { canActivate: [ AuthGuard, CajaMaestraNuevoMovimientoGuard ], path: "cajas/cierre/diario/:ano/:mes", component: CajaMaestraIndividualComponent },
     { canActivate: [ AuthGuard, CajaMaestraNuevoMovimientoGuard ], path: "cajas/cierre/diario", component: CajaMaestraIndividualComponent },
-    
     { canActivate: [ AuthGuard, CajaDiariaNuevoMovimientoGuard ], path: "cajas/diaria/new", component: CajaDiariaNewComponent },
     { canActivate: [ AuthGuard, CajaFuerteVerGuard ], path: 'cajas/fuerte', component: CajaFuerteComponent },
     { canActivate: [ AuthGuard, CajaFuerteNuevoMovimientoGuard ], path: "cajas/fuerte/new", component: CajaFuerteNewComponent },

@@ -14,6 +14,8 @@ import { CRUDView } from "src/app/classes/views/crud-view.classes";
 import { ConfirmDialogService } from "src/app/components/confirm-dialog/confirm-dialog.service";
 import { ApiService } from "src/app/services/api.service";
 import { AuthService } from "src/app/services/auth.service";
+// import { BsDatepickerConfig } from 'ngx-bootstrap/datepicker';
+import { FormsModule } from '@angular/forms';
 
 @Component({
   selector: 'app-caja-diaria-new-crud',
@@ -26,6 +28,9 @@ export class CajaDiariaNewComponent implements OnInit {
   clientesSearch: ClienteDTO[];
   general_cliente: string;
   cliente_saldo_deudor: number;
+  fechaHoraOpcional: boolean = false;
+  // bsConfig: Partial<BsDatepickerConfig>;
+  showManualDate: boolean = false;
 
   constructor(private apiService: ApiService,
               private authService: AuthService,
@@ -40,6 +45,11 @@ export class CajaDiariaNewComponent implements OnInit {
     this.crud.model.medio_de_pago = "Efectivo";
     this.crud.model.usuarioNombre = authService.getCurrentUser().first_name;
     this.cliente_saldo_deudor = null;
+
+    // this.bsConfig = {
+    //   containerClass: 'theme-default',
+    //   dateInputFormat: 'YYYY-MM-DD HH:mm:ss'
+    // };
   }
 
   onClienteSearchSelectItem (cliente: ClienteDTO) {
@@ -104,6 +114,11 @@ export class CajaDiariaNewComponent implements OnInit {
   onFiltroEstadoChange(newValue: string) {
     this.crud.model.turno = newValue;
 
+  }
+
+
+  toggleManualDate() {
+    this.showManualDate = !this.showManualDate;
   }
 
 
@@ -199,6 +214,24 @@ export class CajaDiariaNewComponent implements OnInit {
         return;
       }
     }
+
+    if(this.showManualDate == false)
+      this.crud.model.fechaHora = new Date();
+    
+    if(this.showManualDate == true){
+      this.crud.model.fechaHora = new Date(this.crud.model.fechaHora)
+      this.crud.model.fechaHora.setMinutes(this.crud.model.fechaHora.getMinutes() + this.crud.model.fechaHora.getTimezoneOffset()); 
+      console.log(this.crud.model.fechaHora)
+
+      if (!isNaN(this.crud.model.fechaHora.getTime())) {
+      } else {
+        this.confirmDialogService.showError("Fecha inválida");
+        return
+      }
+  
+    }
+
+
 
     //if (this.crud.model.observaciones === undefined || this.crud.model.observaciones === "")
     //{

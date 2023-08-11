@@ -21,10 +21,14 @@ import { AuthService } from "src/app/services/auth.service";
 
 export class CajaFuerteNewComponent implements OnInit {
   crud: CRUDView<MovimientoCajaFuerteDTO>;
+  items: any[] = [];
+  opcionesTipoMovimiento: string[] = ["Gastos", "Impuestos", "Sueldos","Compras"];
   proveedoresSearch: ProveedorDTO[];
   proveedor_search: string;
   proveedor_encrypted_id: string;
   proveedor_saldo_deudor: number;
+
+
 
   constructor(private apiService: ApiService,
               private authService: AuthService,
@@ -39,6 +43,7 @@ export class CajaFuerteNewComponent implements OnInit {
     this.crud.model.medio_de_pago = "Efectivo";
     this.crud.model.usuarioNombre = authService.getCurrentUser().first_name;
     this.proveedor_saldo_deudor = null;
+    this.items.push({ observaciones: "Gastos", importe: 0, pago_referencia: null });
   }
 
   onCancelClick() {
@@ -47,58 +52,73 @@ export class CajaFuerteNewComponent implements OnInit {
     });
   }
 
-  onSaveClick() {
-    if (this.crud.model.tipo === "")
-    {
-      this.confirmDialogService.showError("Debes seleccionar el Tipo de movimiento.");
-      return;
-    }
+  async onSaveClick() {
+    for (const [index, item] of this.items.entries()) {
+      this.crud.model.observaciones = item.observaciones;
+      this.crud.model.importe = item.importe;
+      this.crud.model.pago_referencia = item.pago_referencia;
 
-    if (this.crud.model.importe === undefined)
-    {
-      this.confirmDialogService.showError("Debes ingresar el monto.");
-      return;
-    }
-
-    if (this.crud.model.importe <= 0)
-    {
-      this.confirmDialogService.showError("Debes ingresar un monto válido.");
-      return;
-    }
-
-    if (this.crud.model.esCtaCte) {
-      if (this.crud.model.proveedor_encrypted_id === undefined || this.crud.model.proveedor_encrypted_id === null || this.crud.model.proveedor_encrypted_id.length === 0)
+      console.log(this.crud.model.observaciones);
+    
+      if (this.crud.model.tipo === "")
       {
-        this.confirmDialogService.showError("Debes seleccionar el Proveedor a cancelar saldo.");
+        this.confirmDialogService.showError("Debes seleccionar el Tipo de movimiento.");
+        return;
+      }
+
+      if (this.crud.model.importe === undefined)
+      {
+        this.confirmDialogService.showError(`Debes ingresar el monto en el campo ${index+1}`);
+        return;
+      }
+
+      if (this.crud.model.importe <= 0)
+      {
+        this.confirmDialogService.showError(`Debes ingresar el monto en el campo ${index+1}.`);
+        return;
+      }
+
+      if (this.crud.model.esCtaCte) {
+        if (this.crud.model.proveedor_encrypted_id === undefined || this.crud.model.proveedor_encrypted_id === null || this.crud.model.proveedor_encrypted_id.length === 0)
+        {
+          this.confirmDialogService.showError("Debes seleccionar el Proveedor a cancelar saldo.");
+          return;
+        }
+      }
+
+      if (this.crud.model.observaciones === undefined || this.crud.model.observaciones === "")
+      {
+        this.confirmDialogService.showError(`Debes ingresar una observación en el campo ${index+1}.`);
+        return;
+      }
+
+      if (this.crud.model.medio_de_pago === undefined || this.crud.model.medio_de_pago === "")
+      {
+        this.confirmDialogService.showError("Debes seleccionar un medio de pago.");
         return;
       }
     }
 
-    if (this.crud.model.observaciones === undefined || this.crud.model.observaciones === "")
-    {
-      this.confirmDialogService.showError("Debes ingresar una observación.");
-      return;
-    }
+    for (const item of this.items) {
+      this.crud.model.observaciones = item.observaciones;
+      this.crud.model.importe = item.importe;
+      this.crud.model.pago_referencia = item.pago_referencia;
 
-    if (this.crud.model.medio_de_pago === undefined || this.crud.model.medio_de_pago === "")
-    {
-      this.confirmDialogService.showError("Debes seleccionar un medio de pago.");
-      return;
+      await this.apiService.DoPOST<ApiResult<MovimientoCajaFuerteDTO>>("cajas/fuerte/save", this.crud.model, /*headers*/ null,
+        (response) => {
+          if (!response.success) {
+            this.confirmDialogService.showError(response.message);
+          }
+          else {
+            this.notifierService.notify('success', 'Movimiento guardado correctamente.');
+            this.routerService.navigate(['/cajas/fuerte']);
+          }
+        },
+        (errorMessage) => {
+          this.confirmDialogService.showError(errorMessage);
+        });
     }
-
-    this.apiService.DoPOST<ApiResult<MovimientoCajaFuerteDTO>>("cajas/fuerte/save", this.crud.model, /*headers*/ null,
-      (response) => {
-        if (!response.success) {
-          this.confirmDialogService.showError(response.message);
-        }
-        else {
-          this.notifierService.notify('success', 'Movimiento guardado correctamente.');
-          this.routerService.navigate(['/cajas/fuerte']);
-        }
-      },
-      (errorMessage) => {
-        this.confirmDialogService.showError(errorMessage);
-      });
+      
   }
 
   onProveedorSearchSelectItem (proveedor: ProveedorDTO) {
@@ -163,6 +183,27 @@ export class CajaFuerteNewComponent implements OnInit {
     observableBlur.subscribe(() => {
       setTimeout(onBlur, 200);
     });
+  }
+
+  addItem() {
+    this.items.push({ observaciones: "Gastos", importe: 0 ,empleado: ""});
+  }
+
+  removeItem(index: number) {
+    if(this.items.length>1)
+      this.items.splice(index, 1);
+  }
+
+  onObservacionesChange(event: any, index: number) {
+    this.items[index].observaciones = event.target.value;
+  }
+
+  onImporteChange(event: any, index: number) {
+    this.items[index].importe = event.target.value;
+  }
+
+  onPago_referenciaChange(event: any, index: number) {
+    this.items[index].pago_referencia = event.target.value;
   }
 
 }

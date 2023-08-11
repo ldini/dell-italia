@@ -326,16 +326,14 @@ namespace Natom.Petshop.Gestion.Backend.Controllers
         // GET: cajas/cierre
         [HttpGet]
         [ActionName("cierre/list/all")]
-        public async Task<IActionResult> GetMovimientosCajaCierreIndividualAsync()
+        public async Task<IActionResult> GetMovimientosCajaCierreIndividualAsync(int? mes = null, int? ano = null)
         {
             try
             {
-
                 var manager = new CajasManager(_serviceProvider);
 
-                var movimientosCierre = await manager.ObtenerMovimientosCajaCierreIndividualAsync();
+                var movimientosCierre = await manager.ObtenerMovimientosCajaCierreIndividualAsync(mes, ano); // Pasa los parámetros mes y ano al método del manager
                 var movimientosCierreDTO = movimientosCierre.Select(mc => new MovimientoCajaCierreIndividualDTO().From(mc)).ToList();
-
 
                 return Ok(new ApiResultDTO<List<MovimientoCajaCierreIndividualDTO>>
                 {
@@ -349,6 +347,8 @@ namespace Natom.Petshop.Gestion.Backend.Controllers
                 return Ok(new ApiResultDTO { Success = false, Message = "Se ha producido un error interno." });
             }
         }
+
+
 
         [HttpPost]
         [ActionName("cierre/cierre_caja")]

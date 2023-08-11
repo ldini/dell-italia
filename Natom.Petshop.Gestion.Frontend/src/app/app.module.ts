@@ -1,5 +1,5 @@
 import { BrowserModule } from '@angular/platform-browser';
-import { APP_INITIALIZER, CUSTOM_ELEMENTS_SCHEMA, LOCALE_ID, NgModule } from '@angular/core';
+import { APP_INITIALIZER, CUSTOM_ELEMENTS_SCHEMA,NO_ERRORS_SCHEMA, LOCALE_ID, NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { NgbDate, NgbDateParserFormatter, NgbModule } from '@ng-bootstrap/ng-bootstrap';
@@ -86,6 +86,8 @@ import { CajaMaestraComponent } from './views/cajas/maestra/caja-maestra.compone
 import { CajaMaestraIndividualComponent } from './views/cajas/caja-maestra-individual/caja-maestra-individual.component';
 
 
+
+
 export function OnInit(jsonAppConfigService: JsonAppConfigService, featureFlagsService: FeatureFlagsService) {
   return () => {
     return jsonAppConfigService.load()
@@ -150,7 +152,7 @@ export function OnInit(jsonAppConfigService: JsonAppConfigService, featureFlagsS
     ClienteCuentaCorrienteNewComponent,
     ProveedorCuentaCorrienteComponent,
     ProveedorCuentaCorrienteNewComponent,
-    NgbdDatepickerPopup
+    NgbdDatepickerPopup,
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
@@ -171,7 +173,7 @@ export function OnInit(jsonAppConfigService: JsonAppConfigService, featureFlagsS
     SpinnerLoadingComponent,
     HistoricoCambiosComponent
   ],
-  schemas: [ CUSTOM_ELEMENTS_SCHEMA ],
+  schemas: [ CUSTOM_ELEMENTS_SCHEMA , NO_ERRORS_SCHEMA],
   providers: [
     {
       provide: LOCALE_ID,

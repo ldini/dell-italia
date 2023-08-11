@@ -95,7 +95,7 @@ namespace Natom.Petshop.Gestion.Biz.Managers
 
         public async Task<MovimientoCajaDiaria> GuardarMovimientoCajaDiariaAsync(MovimientoCajaDiariaDTO movimientoDto, int usuarioId)
         {
-            var ahora = DateTime.Now;
+
 
             if (movimientoDto.Tipo == "D")
             {
@@ -118,7 +118,7 @@ namespace Natom.Petshop.Gestion.Biz.Managers
                 var movimientoCtaCte = new MovimientoCtaCteCliente
                 {
                     ClienteId = clienteId,
-                    FechaHora = ahora,
+                    FechaHora = movimientoDto.FechaHora,
                     Importe = movimientoDto.Importe,
                     Observaciones = "Cancelación de deuda /// " + movimientoDto.Observaciones + " /// Nuevo saldo deudor: " + (saldo - movimientoDto.Importe).ToString("C2"),
                     Tipo = "C",
@@ -129,7 +129,7 @@ namespace Natom.Petshop.Gestion.Biz.Managers
 
             var movimiento = new MovimientoCajaDiaria()
             {
-                FechaHora = ahora,
+                FechaHora = movimientoDto.FechaHora,
                 Importe = movimientoDto.Importe,
                 Observaciones = movimientoDto.Observaciones,
                 Tipo = movimientoDto.Tipo,
@@ -492,11 +492,16 @@ namespace Natom.Petshop.Gestion.Biz.Managers
             return moviemientoCierre;
         }
 
-        public async Task<List<MovimientoCajaCierreIndividual>> ObtenerMovimientosCajaCierreIndividualAsync()
+        public async Task<List<MovimientoCajaCierreIndividual>> ObtenerMovimientosCajaCierreIndividualAsync(int? mes = null, int? ano = null)
         {
-            var moviemientoCierre = await _db.MovimientosCajaCierreIndividual.ToListAsync();
-            return moviemientoCierre;
-        }
+            IQueryable<MovimientoCajaCierreIndividual> query = _db.MovimientosCajaCierreIndividual;
+
+            if (mes.HasValue && ano.HasValue)
+                query = query.Where(mc => mc.Mes == mes && mc.Ano == ano);
+
+            var movimientosCierre = await query.ToListAsync();
+            return movimientosCierre;
+        }   
 
         public async Task<MovimientoCajaCierre> ObtenerMovimientoCajaCierrePorIdAsync(int id)
         {

@@ -17,6 +17,8 @@ namespace Natom.Petshop.Gestion.Entities.DTO.Cajas
         [JsonProperty("Mes")]
         public int Mes { get; set; }
         [JsonProperty("Ano")]
+        public int dia { get; set; }
+        [JsonProperty("dia")]
         public int Ano { get; set; }
         [JsonProperty("Registradora1")]
         public decimal Registradora1 { get; set; }
@@ -62,6 +64,7 @@ namespace Natom.Petshop.Gestion.Entities.DTO.Cajas
             Id = entity.Id;
             Mes = entity.Mes;
             Ano = entity.Ano;
+            dia = entity.dia;
             Registradora1 = entity.Registradora1;
             Registradora2 = entity.Registradora2;
             FacturaA = entity.FacturaA;

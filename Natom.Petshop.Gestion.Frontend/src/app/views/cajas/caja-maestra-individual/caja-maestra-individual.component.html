@@ -2,7 +2,8 @@
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-5">
-            <h3>Detalle Caja Maestra  <span></span><a [routerLink]="['/cajas/cierre']">[Mensual]</a></h3>
+            <h3>Detalle Caja Maestra <span></span><a [routerLink]="['/cajas/cierre']" class="text-secondary text-decoration-none">[Mensual]</a></h3>
+
         </div>
     </div>
 
@@ -35,25 +36,115 @@
                 </thead>
                 <tbody>
                 <tr *ngFor="let movimiento of movimientosMaestra">
-                    <td>{{ movimiento.Mes }}/{{ movimiento.Ano }}</td>
-                    <td>${{ movimiento.Registradora1 }}</td>
-                    <td>${{ movimiento.Registradora2 }}</td>
-                    <td>${{ movimiento.FacturaA }}</td>
-                    <td>${{ movimiento.Vales }}</td>
-                    <td>${{ movimiento.Gastos }}</td>
-                    <td>${{ movimiento.Compras }}</td>
-                    <td>${{ movimiento.ComprasA }}</td>
-                    <td>${{ movimiento.ComprasB }}</td>
-                    <td>${{ movimiento.Diferencias }}</td>
-                    <td>${{ movimiento.Efectivo }}</td>
-                    <td>${{ movimiento.Tarjeta_M_Pago }}</td>
-                    <td>${{ movimiento.Gastos_Extra }}</td>   
-                    <td>${{ movimiento.Impuestos }}</td>   
-                    <td>${{ movimiento.Sueldos }}</td>                
-                    <td>${{ movimiento.TurnoN }}</td>
-                    <td>${{ movimiento.TurnoM }}</td>
-                    <td>${{ movimiento.Total }}</td>
+                    <td class="monto">{{movimiento.Ano}}/{{ movimiento.Mes }}/{{ movimiento.dia }}</td>
                     
+                    <td class="monto"  *ngIf="movimiento.Registradora1 >= 0; else debitoRegistradora1">{{ movimiento.Registradora1 | currency:'ARS':'symbol':'1.2-2':'es-AR' }}</td>
+                    <ng-template #debitoRegistradora1>
+                        <td class="monto debito">( - {{ movimiento.Registradora1 | currency:'ARS':'symbol':'1.2-2':'es-AR' }}  )</td>
+                    </ng-template>
+
+                    <td  class="monto" *ngIf="movimiento.Registradora2 >= 0; else debitoRegistradora2">{{ movimiento.Registradora2 | currency:'ARS':'symbol':'1.2-2':'es-AR' }}</td>
+                    <ng-template #debitoRegistradora2>
+                        <td class="monto debito">( - {{ movimiento.Registradora2 | currency:'ARS':'symbol':'1.2-2':'es-AR' }}  )</td>
+                    </ng-template>
+
+                    <td class="monto"  *ngIf="movimiento.FacturaA >= 0; else debitoFacturaA">{{ movimiento.FacturaA | currency:'ARS':'symbol':'1.2-2':'es-AR' }}</td>
+                    <ng-template #debitoFacturaA>
+                        <td class="monto debito">( - {{ movimiento.FacturaA | currency:'ARS':'symbol':'1.2-2':'es-AR' }}  )</td>
+                    </ng-template>
+
+                    <td class="monto"  *ngIf="movimiento.Vales >= 0; else debitoVales">{{ movimiento.Vales | currency:'ARS':'symbol':'1.2-2':'es-AR' }}</td>
+                    <ng-template #debitoVales>
+                        <td class="monto debito">( - {{ movimiento.Vales | currency:'ARS':'symbol':'1.2-2':'es-AR' }}  )</td>
+                    </ng-template>
+
+                    <td class="monto"  *ngIf="movimiento.Gastos >= 0; else debitoGastos">{{ movimiento.Gastos | currency:'ARS':'symbol':'1.2-2':'es-AR' }}</td>
+                    <ng-template #debitoGastos>
+                        <td class="monto debito">( - {{ movimiento.Gastos | currency:'ARS':'symbol':'1.2-2':'es-AR' }}  )</td>
+                    </ng-template>
+
+                    <td class="monto"  *ngIf="movimiento.Compras >= 0; else debitoCompras">{{ movimiento.Compras | currency:'ARS':'symbol':'1.2-2':'es-AR' }}</td>
+                    <ng-template #debitoCompras>
+                        <td class="monto debito">( - {{ movimiento.Compras | currency:'ARS':'symbol':'1.2-2':'es-AR' }}  )</td>
+                    </ng-template>
+
+                    <td class="monto"  *ngIf="movimiento.ComprasA >= 0; else debitoComprasA">{{ movimiento.ComprasA | currency:'ARS':'symbol':'1.2-2':'es-AR' }}</td>
+                    <ng-template #debitoComprasA>
+                        <td class="monto debito">( - {{ movimiento.ComprasA | currency:'ARS':'symbol':'1.2-2':'es-AR' }}  )</td>
+                    </ng-template>
+
+                    <td class="monto"  *ngIf="movimiento.ComprasB >= 0; else debitoComprasB">{{ movimiento.ComprasB | currency:'ARS':'symbol':'1.2-2':'es-AR' }}</td>
+                    <ng-template #debitoComprasB>
+                        <td class="monto debito">( - {{ movimiento.ComprasB | currency:'ARS':'symbol':'1.2-2':'es-AR' }}  )</td>
+                    </ng-template>
+
+                    <td  class="monto" *ngIf="movimiento.Diferencias >= 0; else debitoDiferencias">{{ movimiento.Diferencias | currency:'ARS':'symbol':'1.2-2':'es-AR' }}</td>
+                    <ng-template #debitoDiferencias>
+                        <td class="monto debito">( - {{ movimiento.Diferencias | currency:'ARS':'symbol':'1.2-2':'es-AR' }}  )</td>
+                    </ng-template>
+
+                    <td class="monto"  *ngIf="movimiento.Efectivo >= 0; else debitoEfectivo">{{ movimiento.Efectivo | currency:'ARS':'symbol':'1.2-2':'es-AR' }}</td>
+                    <ng-template #debitoEfectivo>
+                        <td class="monto debito">( - {{ movimiento.Efectivo | currency:'ARS':'symbol':'1.2-2':'es-AR' }}  )</td>
+                    </ng-template>
+
+                    <td class="monto"  *ngIf="movimiento.Tarjeta_M_Pago >= 0; else debitoTarjeta_M_Pago">{{ movimiento.Tarjeta_M_Pago | currency:'ARS':'symbol':'1.2-2':'es-AR' }}</td>
+                    <ng-template #debitoTarjeta_M_Pago>
+                        <td class="monto debito">( - {{ movimiento.Tarjeta_M_Pago | currency:'ARS':'symbol':'1.2-2':'es-AR' }}  )</td>
+                    </ng-template>
+
+                    <td class="monto"  *ngIf="movimiento.Gastos_Extra >= 0; else debitoGastos_Extra">{{ movimiento.Gastos_Extra | currency:'ARS':'symbol':'1.2-2':'es-AR' }}</td>
+                    <ng-template #debitoGastos_Extra>
+                        <td class="monto debito">( - {{ movimiento.Gastos_Extra | currency:'ARS':'symbol':'1.2-2':'es-AR' }}  )</td>
+                    </ng-template>
+
+                    <td class="monto"  *ngIf="movimiento.Impuestos >= 0; else debitoImpuestos">{{ movimiento.Impuestos | currency:'ARS':'symbol':'1.2-2':'es-AR' }}</td>
+                    <ng-template #debitoImpuestos>
+                        <td class="monto debito">( - {{ movimiento.Impuestos | currency:'ARS':'symbol':'1.2-2':'es-AR' }}  )</td>
+                    </ng-template>
+
+                    <td class="monto"  *ngIf="movimiento.Sueldos >= 0; else debitoSueldos">{{ movimiento.Sueldos | currency:'ARS':'symbol':'1.2-2':'es-AR' }}</td>
+                    <ng-template #debitoSueldos>
+                        <td class="monto debito">( - {{ movimiento.Sueldos | currency:'ARS':'symbol':'1.2-2':'es-AR' }}  )</td>
+                    </ng-template>
+
+                    <td class="monto"  class="monto"  *ngIf="movimiento.TurnoN >= 0; else debitoTurnoN">{{ movimiento.TurnoN | currency:'ARS':'symbol':'1.2-2':'es-AR' }}</td>
+                    <ng-template #debitoTurnoN>
+                        <td class="monto debito">( - {{ movimiento.TurnoN | currency:'ARS':'symbol':'1.2-2':'es-AR' }}  )</td>
+                    </ng-template>
+
+                    <td class="monto"  *ngIf="movimiento.TurnoM >= 0; else debitoTurnoM">{{ movimiento.TurnoM | currency:'ARS':'symbol':'1.2-2':'es-AR' }}</td>
+                    <ng-template #debitoTurnoM>
+                        <td class="monto debito">( - {{ movimiento.TurnoM | currency:'ARS':'symbol':'1.2-2':'es-AR' }}  )</td>
+                    </ng-template>
+                   
+                    <td class="monto" *ngIf="movimiento.Total >= 0; else debitoTotal">{{ movimiento.Total | currency:'ARS':'symbol':'1.2-2':'es-AR' }}</td>
+                    <ng-template #debitoTotal>
+                        <td class="monto debito">( - {{ movimiento.Total | currency:'ARS':'symbol':'1.2-2':'es-AR' }}  )</td>
+                    </ng-template>
+
+
+
+
+
+                    <!-- <td class="monto" >{{ movimiento.Registradora1 | currency:'ARS':'symbol':'1.2-2':'es-AR'}}</td> -->
+                    <!-- <td>{{ movimiento.Registradora2 | currency:'ARS':'symbol':'1.2-2':'es-AR'}}</td>
+                    <td>{{ movimiento.FacturaA | currency:'ARS':'symbol':'1.2-2':'es-AR'}}</td>
+                    <td>{{ movimiento.Vales | currency:'ARS':'symbol':'1.2-2':'es-AR'}}</td>
+                    <td>{{ movimiento.Gastos | currency:'ARS':'symbol':'1.2-2':'es-AR'}}</td>
+                    <td>{{ movimiento.Compras | currency:'ARS':'symbol':'1.2-2':'es-AR'}}</td>
+                    <td>{{ movimiento.ComprasA | currency:'ARS':'symbol':'1.2-2':'es-AR'}}</td>
+                    <td>{{ movimiento.ComprasB | currency:'ARS':'symbol':'1.2-2':'es-AR'}}</td>
+                    <td>{{ movimiento.Diferencias | currency:'ARS':'symbol':'1.2-2':'es-AR'}}</td>
+                    <td>{{ movimiento.Efectivo | currency:'ARS':'symbol':'1.2-2':'es-AR'}}</td>
+                    <td>{{ movimiento.Tarjeta_M_Pago | currency:'ARS':'symbol':'1.2-2':'es-AR'}}</td>
+                    <td>{{ movimiento.Gastos_Extra | currency:'ARS':'symbol':'1.2-2':'es-AR'}}</td>   
+                    <td>{{ movimiento.Impuestos | currency:'ARS':'symbol':'1.2-2':'es-AR'}}</td>   
+                    <td>{{ movimiento.Sueldos | currency:'ARS':'symbol':'1.2-2':'es-AR'}}</td>                
+                    <td>{{ movimiento.TurnoN | currency:'ARS':'symbol':'1.2-2':'es-AR'}}</td>
+                    <td>{{ movimiento.TurnoM | currency:'ARS':'symbol':'1.2-2':'es-AR'}}</td> -->
+                    <!-- <td>{{ movimiento.Total | currency:'ARS':'symbol':'1.2-2':'es-AR'}}</td> -->
+                        
                 </tr>
                 </tbody>
             </table>

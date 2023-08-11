@@ -1,6 +1,6 @@
 <div class="container-fluid" id="title-crud">
   <div class="row justify-content-center">
-
+    
     <div class="col-md-12">
       <h3>Nuevo Cierre de Caja</h3>
       <div class="col-md-2">
@@ -15,6 +15,26 @@
           </select>
         </div>
       </div>
+
+      <div class="col-md-1">
+        <!-- Checkbox para habilitar/deshabilitar la fecha manual -->
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" id="manualDateCheckbox" [(ngModel)]="showManualDate">
+          <label class="form-check-label" for="manualDateCheckbox">Fecha Manual</label>
+        </div>
+      </div>
+      <div class="col-md-1" *ngIf="showManualDate">
+        <!-- Campo de Fecha utilizando input[type="date"] -->
+        <div class="form-group">
+          <label for="selectedDate">Seleccione una fecha:</label>
+          <input  type="date" class="form-control" id="selectedDate" [(ngModel)]="crud.model.fechaHora">
+        </div>
+      </div>
+     
+
+
+
+
     </div>
     <div class="col-md-12"> </div>
     <div class="col-md-12"> </div>
@@ -192,7 +212,6 @@
       </div>
     </div>
   </div>
-
 
 
 

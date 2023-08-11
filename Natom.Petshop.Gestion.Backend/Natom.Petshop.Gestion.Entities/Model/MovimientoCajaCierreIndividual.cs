@@ -15,6 +15,7 @@ namespace Natom.Petshop.Gestion.Entities.Model
 		public int Id { get; set; }
 		public int Mes { get; set; }
 		public int Ano { get; set; }
+		public int dia { get; set; }
 		public decimal Registradora1 { get; set; }
 		public decimal Registradora2 { get; set; }
 		public decimal FacturaA { get; set; }

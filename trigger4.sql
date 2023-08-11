@@ -3,22 +3,33 @@ ON [dbo].[MovimientoCajaFuerte]
 AFTER INSERT
 AS
 BEGIN
-    -- Insertar un registro en MovimientoCajaCierreIndividual
-    INSERT INTO [dbo].[MovimientoCajaCierreIndividual] (
-        [Mes], [Ano],
-        [Registradora1], [Registradora2], [FacturaA], [Vales], [Gastos], [Compras], [ComprasA], [ComprasB],
-        [Diferencias], [Efectivo], [Tarjeta/M.Pago], [TurnoN], [TurnoM], [Total],
-        [Impuestos], [Sueldos], [Referencia], [Gastos_Extra]
-    )
+    -- Agrupar los datos por mes y año
     SELECT
-        MONTH(i.[FechaHora]) AS [Mes],
-        YEAR(i.[FechaHora]) AS [Ano],
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-		SUM(CASE WHEN i.[Observaciones] = 'Impuestos' THEN i.[Importe] ELSE 0 END),
-        SUM(CASE WHEN i.[Observaciones] = 'Sueldos' THEN i.[Importe] ELSE 0 END),
-        MAX(CASE WHEN ISNULL(NULLIF(i.[Referencia], ''), '') <> '' THEN i.[Referencia] ELSE '' END),
-        SUM(CASE WHEN i.[Observaciones] = 'Gastos_Extra' THEN i.[Importe] ELSE 0 END)
+        [Mes] = MONTH(i.[FechaHora]),
+        [Ano] = YEAR(i.[FechaHora]),
+		[dia] = DAY(i.[FechaHora]),
+		[Impuestos] = SUM(CASE WHEN i.[Observaciones] = 'Impuestos' THEN i.[Importe] ELSE 0 END),
+		[Gastos_Extra] = SUM(CASE WHEN i.[Observaciones] = 'Gastos' THEN i.[Importe] ELSE 0 END),
+		[Compras] = SUM(CASE WHEN i.[Observaciones] = 'Compras' THEN i.[Importe] ELSE 0 END),
+        [Sueldos] = SUM(CASE WHEN CHARINDEX('Sueldos', i.[Observaciones]) > 0 THEN i.[Importe] ELSE 0 END)
+    INTO #TempData
     FROM inserted i
-    GROUP BY MONTH(i.[FechaHora]), YEAR(i.[FechaHora]);
+    GROUP BY MONTH(i.[FechaHora]), YEAR(i.[FechaHora]),DAY(i.[FechaHora]);
 
+    -- Actualizar o insertar los datos en [MovimientoCajaCierre]
+    MERGE [MovimientoCajaCierreIndividual] AS ot
+    USING #TempData AS i ON ot.[Mes] = i.[Mes] AND ot.[Ano] = i.[Ano] AND ot.[dia] = i.[dia]
+    WHEN MATCHED THEN
+        UPDATE SET
+			[Impuestos] += i.[Impuestos],
+			[Gastos_Extra] += i.[Gastos_Extra],
+			[Sueldos] += i.[Sueldos],
+			[Compras] += i.[Compras],
+			[Total] += i.[Impuestos] + i.[Gastos_Extra] + i.[Sueldos] + i.[Compras]
+    WHEN NOT MATCHED THEN
+        INSERT ([Mes], [Ano],[dia], [Impuestos], [Gastos_Extra], [Sueldos],[Compras],[Total])
+        VALUES (i.[Mes], i.[Ano],i.[dia], i.[Impuestos], i.[Gastos_Extra], i.[Sueldos],i.[Compras],i.[Impuestos] + i.[Gastos_Extra] + i.[Sueldos] + i.[Compras]);
+
+    -- Eliminar la tabla temporal
+    DROP TABLE #TempData;
 END;
