@@ -56,6 +56,8 @@ namespace Natom.Petshop.Gestion.Entities.DTO.Cajas
         public string Referencia { get; private set; }
         [JsonProperty("Gastos_Extra")]
         public decimal Gastos_Extra { get; private set; }
+        [JsonProperty("Cheques")]
+        public decimal Cheques { get; private set; }
 
         public MovimientoCajaCierreDTO From(MovimientoCajaCierre entity)
         {
@@ -81,6 +83,7 @@ namespace Natom.Petshop.Gestion.Entities.DTO.Cajas
             Sueldos = entity.Sueldos;
             Referencia = entity.Referencia;
             Gastos_Extra = entity.Gastos_Extra;
+            Cheques = entity.Cheques;
 
             return this;
         }

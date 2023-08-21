@@ -403,7 +403,7 @@ export class CajaDiariaNewComponent implements OnInit {
         this.confirmDialogService.showError(errorMessage);
       });
 
-      this.crud.model.importe = this.crud.model.importe4 + this.crud.model.importe1 + this.crud.model.importe2 - this.crud.model.importe3 - this.crud.model.importe7 - this.crud.model.importe8 - this.crud.model.importe6 - this.crud.model.importe11;
+      this.crud.model.importe = this.crud.model.importe4 + this.crud.model.importe1 + this.crud.model.importe2 - this.crud.model.importe3 - this.crud.model.importe7 - this.crud.model.importe8 - this.crud.model.importe6 - this.crud.model.importe11 -this.crud.model.importe12;
       this.crud.model.observaciones = 'Diferencias // ' + this.crud.model.turno;
       if (this.crud.model.importe >0)
     {

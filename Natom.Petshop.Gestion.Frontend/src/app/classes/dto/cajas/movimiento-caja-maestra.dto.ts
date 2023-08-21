@@ -21,4 +21,5 @@ export class MovimientoCajaMaestraDTO {
     public Sueldos:number;
     public Referencia:string;
     public Gastos_Extra:number;
+    public Cheques:number;
 }

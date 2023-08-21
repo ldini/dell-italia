@@ -35,6 +35,7 @@ namespace Natom.Petshop.Gestion.Entities.Model
 		public decimal Sueldos { get; set; }
 		public string? Referencia { get; set; }
 		public decimal Gastos_Extra { get; set; }
+		public decimal Cheques { get; set; }
 
 	}
 }
